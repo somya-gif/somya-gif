@@ -27,16 +27,16 @@ Passionate about building predictive ML workflows and transforming complex busin
 
 ---
 
-## 💼 Industry Experience
+##  Industry Experience
 
-### 🤖 LLM Post Training Intern — **Ethara AI** *(Jan 2026 – May 2026)*
+###  LLM Post Training Intern — **Ethara AI** *(Jan 2026 – May 2026)*
 * Evaluated AI-generated responses and performed quality assessments to support Large Language Model (LLM) post-training workflows (RLHF/RLAIF).
 * Authored and benchmarked targeted prompts for AI response generation and automated evaluation tasks.
 * Contributed to structured dataset curation, annotation, and data preparation pipelines across AI initiatives.
 
 ---
 
-## 🛠️ Technical Arsenal
+##  Technical Stack
 
 | Category | Tools & Frameworks |
 | :--- | :--- |
@@ -48,10 +48,10 @@ Passionate about building predictive ML workflows and transforming complex busin
 
 ---
 
-## 🔬 Featured Projects
+##  Projects
 
-### 🏨 [Hotel Cancellation Analysis Dashboard](https://github.com/somya-gif)
-> **Stack**: Power BI, Power Query, DAX, Data Modeling (Star/Snowflake)
+###  [Hotel Booking Cancellation Analysis Dashboard](https://github.com/somya-gif)
+> **Stack**: Power BI, Power Query, DAX, Data Modeling.
 * **Scope**: Comprehensive analysis of **36,285 hotel reservations** to identify revenue loss drivers.
 * **Findings**: Discovered **11,889 cancellations** resulting in a **32.77% overall cancellation rate**.
 * **Deliverable**: Designed a 4-page interactive dashboard featuring:
@@ -63,7 +63,7 @@ Passionate about building predictive ML workflows and transforming complex busin
 
 ---
 
-### 🛒 [E-commerce Customer Repeat-Purchase Prediction System](https://github.com/somya-gif) *(In Progress)*
+###  [E-commerce Customer Repeat-Purchase Prediction System](https://github.com/somya-gif) *(In Progress)*
 > **Stack**: Python, Scikit-learn, Pandas, Feature Engineering, Classification Algorithms
 * **Objective**: Build a predictive machine learning pipeline to identify customers likely to make a repeat purchase within **30 days**.
 * **Methodology**: End-to-end ML lifecycle including exploratory data analysis, missing value handling, temporal feature engineering (recency, frequency, monetary metrics), train-test splits, and model benchmarking (Logistic Regression, Decision Trees, Gradient Boosting).
@@ -71,15 +71,15 @@ Passionate about building predictive ML workflows and transforming complex busin
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
-* 🎓 **Bachelor of Science in Computer Science** — Gangadhar Meher University *(2023 – 2026 | CGPA: 7.69/10)*
-* 📜 **Certificate Programme in Essentials of Data Analytics, GenAI & Execution** — **IIM Sirmaur**, in collaboration with Masai School *(2025 – 2026)*
-* 🏅 **Generative AI Mega Workshop** — NxtWave *(Nov 2024)*
+*  **Bachelor of Science in Computer Science** — Gangadhar Meher University *(2023 – 2026 | CGPA: 7.69/10)*
+* **Certificate Programme in Essentials of Data Analytics, GenAI & Execution** — **IIM Sirmaur**, in collaboration with Masai School *(2025 – 2026)*
+*  **Generative AI Mega Workshop** — NxtWave *(Nov 2024)*
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=somya-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2dd4bf&icon_color=38bdf8" alt="GitHub Stats" width="48%" />
@@ -88,8 +88,8 @@ Passionate about building predictive ML workflows and transforming complex busin
 
 ---
 
-## 📬 Let's Connect
+## Contacts
 
-* 💼 **LinkedIn**: [linkedin.com/in/soumya-prakash-patel-49abb6366](https://www.linkedin.com/in/soumya-prakash-patel-49abb6366/)
-* 📧 **Email**: [somya8407@gmail.com](mailto:somya8407@gmail.com)
-* 📱 **Phone**: +91 8249247920
+*  **LinkedIn**: [linkedin.com/in/soumya-prakash-patel-49abb6366](https://www.linkedin.com/in/soumya-prakash-patel-49abb6366/)
+*  **Email**: [somya8407@gmail.com](mailto:somya8407@gmail.com)
+*  **Phone**: +91 8249247920
