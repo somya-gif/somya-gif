@@ -1,33 +1,70 @@
+<div align="center">
+
+![Soumya Prakash Patel — Aspiring Data Analyst, Python, SQL, Excel and Power BI](assets/profile-banner.svg)
+
 # Soumya Prakash Patel
+### Aspiring Data Analyst · Business Analytics Enthusiast
 
-### Aspiring Data Analyst | Python · SQL · Excel · Power BI
+**Interested in turning data into clear insights that support business decisions.**
 
-Computer Science graduate interested in turning data into clear insights that support business decisions. My focus is data cleaning, analysis and visualization, and I am seeking opportunities in data analysis and business analysis.
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/soumya-prakash-patel-49abb6366/)
+[![Email](https://img.shields.io/badge/Contact-Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Somya8407@gmail.com)
+[![Repositories](https://img.shields.io/badge/Explore-Repositories-14B8A6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/somya-gif?tab=repositories)
 
-## Skills
+</div>
+
+---
+
+## 👋 About Me
+
+I am a **B.Sc. Computer Science graduate from Gangadhar Meher University**, having completed my degree in **May 2026**. I completed a **Data Analytics certification from IIM Sirmaur in October 2026**.
+
+My skills include **Python, SQL, Excel and Power BI**, with a focus on data cleaning, data visualization and analytical thinking. I am seeking **entry-level Data Analyst and Business Analyst opportunities**.
+
+## 🧰 Technical Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-0F766E?style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logoColor=black" alt="Power BI"/>
+</p>
 
 | Area | Skills |
-| --- | --- |
-| Programming and querying | Python, SQL |
-| Analysis and reporting | Excel, Power BI |
-| Data practices | Data cleaning, data visualization, analytical thinking |
+|:--|:--|
+| **Programming & querying** | Python, SQL |
+| **Analysis & reporting** | Excel, Power BI |
+| **Data preparation** | Data cleaning |
+| **Communication through data** | Data visualization, analytical thinking |
 
-## Education
+## 📊 Portfolio
 
-**B.Sc. in Computer Science**  
-Gangadhar Meher University · Completed May 2026
+**Project showcase coming soon.**
 
-## Certification
+Project files and case studies will be added as they are ready to share, with their business questions, datasets, analysis steps and findings.
 
-**Data Analytics Certification**  
-IIM Sirmaur · Completed October 2026
+[Browse available repositories →](https://github.com/somya-gif?tab=repositories)
 
-## Portfolio
+## 🎓 Education & Certification
 
-Project files and case studies will be added here as they are ready to share.
+| Qualification | Institution | Completed |
+|:--|:--|:--|
+| **B.Sc. Computer Science** | Gangadhar Meher University | May 2026 |
+| **Data Analytics Certification** | IIM Sirmaur | October 2026 |
 
-## Connect
+## 🎯 Areas of Interest
 
-- [LinkedIn](https://www.linkedin.com/in/soumya-prakash-patel-49abb6366/)
-- [Email](mailto:Somya8407@gmail.com)
-- [GitHub](https://github.com/somya-gif)
+- Cleaning and exploring data to understand patterns
+- Using SQL and Python for analysis
+- Presenting findings through Excel and Power BI
+- Connecting analytical findings to business questions
+
+## 🤝 Let's Connect
+
+Open to **entry-level Data Analyst and Business Analyst roles**, learning opportunities and analytics collaboration.
+
+**[LinkedIn](https://www.linkedin.com/in/soumya-prakash-patel-49abb6366/)** · **[Email](mailto:Somya8407@gmail.com)** · **[GitHub](https://github.com/somya-gif)**
+
+---
+
+<div align="center"><sub>Clear questions. Thoughtful analysis. Understandable insights.</sub></div>
