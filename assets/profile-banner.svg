@@ -1,15 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-<title id="title">Soumya Prakash Patel — Data Analytics</title>
-<desc id="desc">Profile banner with abstract geometric accents. Aspiring Data Analyst. Python, SQL, Excel and Power BI.</desc>
+<title id="title">Soumya Prakash Patel — Data Science, ML &amp; Analytics</title>
+<desc id="desc">Profile banner. Data Science, Machine Learning, and Analytics. Python, Scikit-Learn, Oracle SQL, Power BI, and GenAI.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#163344"/></linearGradient></defs>
 <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
 <path d="M925 0V360M1040 0V360M1155 0V360M880 90H1280M880 180H1280M880 270H1280" stroke="#315263" opacity=".45"/>
 <circle cx="1110" cy="160" r="110" fill="none" stroke="#2dd4bf" stroke-width="2" opacity=".35"/>
 <circle cx="1110" cy="160" r="73" fill="none" stroke="#38bdf8" stroke-width="22" opacity=".15"/>
-<rect x="64" y="63" width="46" height="5" rx="2" fill="#2dd4bf"/>
-<text x="64" y="110" fill="#5eead4" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">DATA ANALYTICS · BUSINESS INSIGHTS</text>
-<text x="60" y="181" fill="#f8fafc" font-family="Arial,sans-serif" font-size="54" font-weight="700">Soumya Prakash Patel</text>
-<text x="64" y="227" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="24">Aspiring Data Analyst</text>
-<text x="64" y="295" fill="#94a3b8" font-family="Arial,sans-serif" font-size="20">PYTHON   /   SQL   /   EXCEL   /   POWER BI</text>
+<line x1="1040" y1="120" x2="1110" y2="160" stroke="#38bdf8" stroke-width="1.5" opacity=".4"/>
+<line x1="1040" y1="200" x2="1110" y2="160" stroke="#38bdf8" stroke-width="1.5" opacity=".4"/>
+<circle cx="1040" cy="120" r="6" fill="#38bdf8" opacity=".7"/>
+<circle cx="1040" cy="200" r="6" fill="#38bdf8" opacity=".7"/>
 <circle cx="1110" cy="160" r="10" fill="#2dd4bf"/>
+<rect x="64" y="63" width="46" height="5" rx="2" fill="#2dd4bf"/>
+<text x="64" y="110" fill="#5eead4" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">DATA SCIENCE · MACHINE LEARNING · BUSINESS ANALYTICS</text>
+<text x="60" y="181" fill="#f8fafc" font-family="Arial,sans-serif" font-size="52" font-weight="700">Soumya Prakash Patel</text>
+<text x="64" y="227" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="24">Data Scientist · ML &amp; Analytics Specialist · Ex-Intern @ Ethara AI</text>
+<text x="64" y="295" fill="#94a3b8" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">PYTHON  ·  SCIKIT-LEARN  ·  ORACLE SQL  ·  POWER BI  ·  GENAI</text>
 </svg>
