@@ -14,29 +14,28 @@
 
 ---
 
-## 👨‍💻 Executive Summary
+ Executive Summary
 
 Computer Science graduate with hands-on internship experience in **LLM post-training evaluation and prompt engineering at Ethara AI**. Proficient in **Python, Machine Learning (Scikit-Learn), Oracle SQL, Excel, and Power BI** (Power Query, DAX, star/snowflake modeling). 
 
 Passionate about building predictive ML workflows and transforming complex business data into intuitive, decision-ready analytics.
 
-* 📍 **Location**: Bengaluru, Karnataka, India
-* 🎓 **Education**: B.Sc. in Computer Science — Gangadhar Meher University (**CGPA: 7.69/10**)
-* 📜 **Executive Certification**: Essentials of Data Analytics, GenAI & Execution — **IIM Sirmaur & Masai School**
-* 💼 **Target Roles**: Data Scientist | Machine Learning Engineer | Data Analyst | Business Intelligence Analyst
+*  **Location**: Bengaluru, Karnataka, India
+*  **Education**: B.Sc. in Computer Science — Gangadhar Meher University (**CGPA: 7.69/10**)
+*  **Executive Certification**: Essentials of Data Analytics, GenAI & Execution — **IIM Sirmaur & Masai School**
+*  **Target Roles**: Data Scientist | Machine Learning Engineer | Data Analyst | Business Intelligence Analyst
 
 ---
+ Experience
 
-##  Industry Experience
-
-###  LLM Post Training Intern — **Ethara AI** *(Jan 2026 – May 2026)*
+  LLM Post Training Intern — **Ethara AI** *(Jan 2026 – May 2026)*
 * Evaluated AI-generated responses and performed quality assessments to support Large Language Model (LLM) post-training workflows (RLHF/RLAIF).
 * Authored and benchmarked targeted prompts for AI response generation and automated evaluation tasks.
 * Contributed to structured dataset curation, annotation, and data preparation pipelines across AI initiatives.
 
 ---
 
-##  Technical Stack
+ Technical Stack
 
 | Category | Tools & Frameworks |
 | :--- | :--- |
@@ -49,8 +48,7 @@ Passionate about building predictive ML workflows and transforming complex busin
 ---
 
 ##  Projects
-
-###  [Hotel Booking Cancellation Analysis Dashboard](https://github.com/somya-gif)
+ [Hotel Booking Cancellation Analysis Dashboard]()
 > **Stack**: Power BI, Power Query, DAX, Data Modeling.
 * **Scope**: Comprehensive analysis of **36,285 hotel reservations** to identify revenue loss drivers.
 * **Findings**: Discovered **11,889 cancellations** resulting in a **32.77% overall cancellation rate**.
@@ -63,7 +61,7 @@ Passionate about building predictive ML workflows and transforming complex busin
 
 ---
 
-###  [E-commerce Customer Repeat-Purchase Prediction System](https://github.com/somya-gif) *(In Progress)*
+ [E-commerce Customer Repeat-Purchase Prediction System]() 
 > **Stack**: Python, Scikit-learn, Pandas, Feature Engineering, Classification Algorithms
 * **Objective**: Build a predictive machine learning pipeline to identify customers likely to make a repeat purchase within **30 days**.
 * **Methodology**: End-to-end ML lifecycle including exploratory data analysis, missing value handling, temporal feature engineering (recency, frequency, monetary metrics), train-test splits, and model benchmarking (Logistic Regression, Decision Trees, Gradient Boosting).
@@ -71,20 +69,11 @@ Passionate about building predictive ML workflows and transforming complex busin
 
 ---
 
-##  Education & Certifications
+ Education & Certifications
 
 *  **Bachelor of Science in Computer Science** — Gangadhar Meher University *(2023 – 2026 | CGPA: 7.69/10)*
 * **Certificate Programme in Essentials of Data Analytics, GenAI & Execution** — **IIM Sirmaur**, in collaboration with Masai School *(2025 – 2026)*
 *  **Generative AI Mega Workshop** — NxtWave *(Nov 2024)*
-
----
-
-##  GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somya-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2dd4bf&icon_color=38bdf8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somya-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2dd4bf" alt="Top Languages" width="45%" />
-</div>
 
 ---
 
