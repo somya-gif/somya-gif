@@ -2,9 +2,9 @@
 
 ![Soumya Prakash Patel — Data Science, ML & Analytics](assets/profile-banner.svg)
 
-# Soumya Prakash Patel
-### Data Scientist · Machine Learning & Analytics Specialist
-**Computer Science Graduate · Ex-LLM Intern @ Ethara AI · IIM Sirmaur Certified**
+ Soumya Prakash Patel
+# Data Scientist · Machine Learning & Analytics Specialist
+Computer Science Graduate · Ex-LLM Intern @ Ethara AI · IIM Sirmaur Certified
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-prakash-patel-49abb6366/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somya8407@gmail.com)
@@ -20,16 +20,16 @@ Computer Science graduate with hands-on internship experience in **LLM post-trai
 
 Passionate about building predictive ML workflows and transforming complex business data into intuitive, decision-ready analytics.
 
-*  **Location**: Bengaluru, Karnataka, India
-*  **Education**: B.Sc. in Computer Science — Gangadhar Meher University (**CGPA: 7.69/10**)
-*  **Executive Certification**: Essentials of Data Analytics, GenAI & Execution — **IIM Sirmaur & Masai School**
-*  **Target Roles**: Data Scientist | Machine Learning Engineer | Data Analyst | Business Intelligence Analyst
+*  Location: Bengaluru, Karnataka, India
+*  Education: B.Sc. in Computer Science — Gangadhar Meher University (**CGPA: 7.69/10**)
+*  Executive Certification**: Essentials of Data Analytics, GenAI & Execution — **IIM Sirmaur & Masai School**
+*  Target Roles: Data Scientist | Machine Learning Engineer | Data Analyst | Business Intelligence Analyst
 
 ---
  Experience
 
   LLM Post Training Intern — **Ethara AI** *(Jan 2026 – May 2026)*
-* Evaluated AI-generated responses and performed quality assessments to support Large Language Model (LLM) post-training workflows (RLHF/RLAIF).
+* Evaluated AI-generated responses and performed quality assessments to support Large Language Model (LLM) post-training workflows.
 * Authored and benchmarked targeted prompts for AI response generation and automated evaluation tasks.
 * Contributed to structured dataset curation, annotation, and data preparation pipelines across AI initiatives.
 
