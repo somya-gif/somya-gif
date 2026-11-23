@@ -2,7 +2,7 @@
 
 ![Soumya Prakash Patel — Data Science, ML & Analytics](assets/profile-banner.svg)
 
- Soumya Prakash Patel
+# Soumya Prakash Patel
 # Data Scientist · Machine Learning & Analytics Specialist
 Computer Science Graduate · Ex-LLM Intern @ Ethara AI · IIM Sirmaur Certified
 
