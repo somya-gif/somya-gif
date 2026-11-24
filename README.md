@@ -59,13 +59,13 @@ Passionate about building production-grade predictive ML workflows and transform
 
 ---
 
-### [E-commerce Customer Repeat-Purchase Prediction System](https://github.com/somya-gif/project)
+### [E-commerce Customer Repeat-Purchase Prediction System](https://github.com/somya-gif/ecommerce-customer-repurchase-ml)
 > **Stack:** Python, Scikit-learn (Gradient Boosting), Pandas, Streamlit, Automated Testing.
 * **Scope:** Analyzed ~1 million orders across 2 years from the UCI Online Retail II dataset to predict 30-day repeat purchases.
 * **Methodology:** Designed temporal RFM feature engineering with strict date cutoffs to eliminate future data leakage, validated with automated regression tests (`test_features.py`).
 * **Performance:** Achieved **3.14x Lift** in the top decile, **0.791 ROC-AUC**, and **53.0% Precision** on 4 months of completely unseen future test data.
 * **Web Application:** Built an interactive Streamlit web dashboard for live customer scoring and exportable campaign lists.
-* **[Explore Repository]**(https://github.com/somya-gif/project) • `[Interactive Streamlit App]` • `[ML Pipeline]` • `[Unit Tests]`
+* **[Explore Repository]**(https://github.com/somya-gif/ecommerce-customer-repurchase-ml) • `[Interactive Streamlit App]` • `[ML Pipeline]` • `[Unit Tests]`
 
 ---
 
